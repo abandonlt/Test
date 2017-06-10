@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thearchy.iml" filepath="$PROJECT_DIR$/Thearchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThearchyAres/ThearchyAres.iml" filepath="$PROJECT_DIR$/ThearchyAres/ThearchyAres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThearchyAthena/ThearchyAthena.iml" filepath="$PROJECT_DIR$/ThearchyAthena/ThearchyAthena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThearchyHades/ThearchyHades.iml" filepath="$PROJECT_DIR$/ThearchyHades/ThearchyHades.iml" />
+    </modules>
+  </component>
+</project>
