@@ -10,6 +10,15 @@ public class User {
     private String id;
     private String username;
     private String password;
+    private String remark;
+
+    public String getRemark() {
+        return remark;
+    }
+
+    public void setRemark(String remark) {
+        this.remark = remark;
+    }
 
     public String getUsername() {
         return username;
@@ -45,6 +54,7 @@ public class User {
                 "id='" + id + '\'' +
                 ", username='" + username + '\'' +
                 ", password='" + password + '\'' +
+                ", remark='" + remark + '\'' +
                 '}';
     }
 }
