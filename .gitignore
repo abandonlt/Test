@@ -36,5 +36,5 @@ proguard/
 *.log  
   
 # Others  
-.idea/  
+.idea/*  
 *.iml  
